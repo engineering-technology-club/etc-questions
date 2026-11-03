@@ -1,0 +1,17 @@
+{
+ "name": "Beyond the Lecture – ETC",
+ "short_name": "ETC Q&A",
+ "lang": "ar",
+ "dir": "rtl",
+ "start_url": "./index.html",
+ "display": "fullscreen",
+ "background_color": "#17264F",
+ "theme_color": "#17264F",
+ "icons": [
+  {
+   "src": "images/logo.png",
+   "sizes": "900x876",
+   "type": "image/png"
+  }
+ ]
+}
